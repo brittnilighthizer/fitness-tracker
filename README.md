@@ -1,3 +1,2 @@
 # fitness-tracker
 
-    .populate("books")
