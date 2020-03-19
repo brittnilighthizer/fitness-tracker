@@ -3,7 +3,7 @@ const logger = require("morgan");
 const mongoose = require("mongoose");
 
 // const PORT = 3000;
-var PORT = process.env.port || 3000;
+var PORT = process.env.PORT || 3000;
 
 var localDb= "mongodb://localhost/workout"
 
